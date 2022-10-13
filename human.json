@@ -1,0 +1,29 @@
+[
+  {
+    "name" : "John",
+    "gender" : "male",
+    "age" : 26,
+    "fruits" : {
+      "likes" : ["mango", "lemon"],
+      "dislikes" : ["apple", "Strawberrie"]
+    }
+  },
+    {
+    "name" : "Mily",
+    "gender" : "female",
+    "age" : 24,
+    "fruits" : {
+      "likes" : ["strawberrie", "orange"],
+      "dislikes" : ["banana", "sweet"]
+    }
+  },
+    {
+    "name" : "Hasan",
+    "gender" : "male",
+    "age" : 25,
+    "fruits" : {
+      "likes" : ["lemon", "mango"],
+      "dislikes" : ["sweet", "apple"]
+    }
+  }
+]
